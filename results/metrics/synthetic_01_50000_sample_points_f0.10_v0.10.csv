@@ -1,0 +1,2 @@
+gt_mesh,pred_mesh,sampled_points,f_threshold,chamfer_distance,hausdorff_distance,precision,recall,f_score,mean_dist_pred_to_gt,mean_dist_gt_to_pred,max_dist_pred_to_gt,max_dist_gt_to_pred,voxel_iou,voxel_size
+data\synthetic\gt_mesh\synthetic_01_gt.obj,data\synthetic\adtree_output\synthetic_01_branches.obj,50000,0.1,0.09477470454240089,0.5330205471926549,0.83182,0.98058,0.9000949631427941,0.06174305659294624,0.03303164794945466,0.5155269111681595,0.5330205471926549,0.4918979850641116,0.1
